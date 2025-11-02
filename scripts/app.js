@@ -16,7 +16,7 @@ window.addEventListener("load", () => {
         const store = new LocalStore();
         store.addTimes();
         setTimeout(() => {
-          window.location.href = "../times.html";
+          window.location.href = "https://kubanychbek-dev.github.io/timing.io/times.html";
         },1000);
       }
     },1000);
