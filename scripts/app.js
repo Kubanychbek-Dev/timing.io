@@ -16,7 +16,7 @@ window.addEventListener("load", () => {
         const store = new LocalStore();
         store.addTimes();
         setTimeout(() => {
-          window.location.assign("../times.html");
+          window.location.href = "../times.html";
         },1000);
       }
     },1000);
