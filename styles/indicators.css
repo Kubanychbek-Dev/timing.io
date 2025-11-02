@@ -1,0 +1,29 @@
+.indicators {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-right: 30px;
+}
+
+.indicator {
+  border: 1px solid black;
+  width: 40px;
+  padding: 20px 4px;
+  border-radius: 50%;
+}
+
+.add-time {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #213587;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

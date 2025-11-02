@@ -1,0 +1,45 @@
+.times-list {
+  list-style: none;
+  text-align: center;
+  margin-right: 42px;
+}
+
+.time-item {
+  margin-bottom: 30px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.time-item:last-child {
+  margin-bottom: 0;
+}
+
+.btns {
+  background-color: #213587;
+  padding: 8px 0;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.add-note {
+  color: blue;
+  border: none;
+}
+
+.delete {
+  color: red;
+  border: none;
+}
+
+.note {
+  color: green;
+  font-weight: bolder;
+}
+
+.time {
+  margin: 20px 0 10px 0;
+  border-top: 1px solid grey;
+}

@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+  background-color: #213587;
+  padding: 14px;
+  margin-bottom: 30px;
+}
+
+.title {
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+  }
+}
